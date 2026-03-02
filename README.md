@@ -5,14 +5,26 @@ Highly motivated Software and Information Systems Engineering student with stron
 
 ## skills
 programmin:
-  •	Python - including pandas
-  •	SQL 
-  •	Java
-  •	c/c++ 
-  •	Unreal Engine
-  •	Assembly
-  •	Familiarity with Linux - environment and bash 
+
+    •	Python - including pandas
+    
+    •	SQL 
+  
+    •	Java
+    
+    •	c/c++ 
+    
+    •	Unreal Engine
+    
+    •	Assembly
+    
+    •	Familiarity with Linux - environment and bash 
+  
 Data structures
+
 Time management -experienced with working in parallel to studying 
+
 Leading skill
+
 Communication skills
+
